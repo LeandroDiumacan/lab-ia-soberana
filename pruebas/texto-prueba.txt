@@ -1,0 +1,9 @@
+La licencia GPL (General Public License) es una licencia de software libre 
+creada por Richard Stallman y la Free Software Foundation en 1989. 
+Su objetivo principal es garantizar que los usuarios tengan la libertad de 
+usar, estudiar, compartir y modificar el software. 
+Cualquier software distribuido bajo esta licencia debe mantener el mismo 
+tipo de licencia en sus versiones modificadas, lo que se conoce como copyleft.
+La GPL ha sido fundamental para el desarrollo del software libre y de código 
+abierto, siendo utilizada por proyectos como el kernel Linux, GCC y muchas 
+otras herramientas esenciales del ecosistema GNU/Linux.
